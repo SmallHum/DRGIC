@@ -1,0 +1,56 @@
+﻿  main.cpp
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(35,16): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(83,30): warning C4244: 'return': conversion from 'size_t' to 'double', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(89,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(91,25): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(107,54): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(128,18): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(129,19): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(133,17): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(134,17): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(135,17): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(143,16): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(144,17): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(10,9): warning C4005: 'clamp': macro redefinition
+      C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(16,9):
+      see previous definition of 'clamp'
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(152,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(154,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(211,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(211,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(249,17): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(269,10): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(325,13): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(351,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 193 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe

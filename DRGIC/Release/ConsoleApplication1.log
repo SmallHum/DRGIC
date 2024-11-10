@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(81,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(83,25): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(99,54): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(111,18): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(112,19): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(126,16): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(127,17): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(10,9): warning C4005: 'clamp': macro redefinition
+      C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\Viewport.h(16,9):
+      see previous definition of 'clamp'
+  
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 178 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\ConsoleApplication1\Release\ConsoleApplication1.exe
